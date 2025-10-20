@@ -1,0 +1,14 @@
+C:\Users\TCO_\PierwszyKod\bin\Debug\net9.0\PierwszyKod.exe
+C:\Users\TCO_\PierwszyKod\bin\Debug\net9.0\PierwszyKod.deps.json
+C:\Users\TCO_\PierwszyKod\bin\Debug\net9.0\PierwszyKod.runtimeconfig.json
+C:\Users\TCO_\PierwszyKod\bin\Debug\net9.0\PierwszyKod.dll
+C:\Users\TCO_\PierwszyKod\bin\Debug\net9.0\PierwszyKod.pdb
+C:\Users\TCO_\PierwszyKod\obj\Debug\net9.0\PierwszyKod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TCO_\PierwszyKod\obj\Debug\net9.0\PierwszyKod.AssemblyInfoInputs.cache
+C:\Users\TCO_\PierwszyKod\obj\Debug\net9.0\PierwszyKod.AssemblyInfo.cs
+C:\Users\TCO_\PierwszyKod\obj\Debug\net9.0\PierwszyKod.csproj.CoreCompileInputs.cache
+C:\Users\TCO_\PierwszyKod\obj\Debug\net9.0\PierwszyKod.dll
+C:\Users\TCO_\PierwszyKod\obj\Debug\net9.0\refint\PierwszyKod.dll
+C:\Users\TCO_\PierwszyKod\obj\Debug\net9.0\PierwszyKod.pdb
+C:\Users\TCO_\PierwszyKod\obj\Debug\net9.0\PierwszyKod.genruntimeconfig.cache
+C:\Users\TCO_\PierwszyKod\obj\Debug\net9.0\ref\PierwszyKod.dll
